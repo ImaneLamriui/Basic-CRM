@@ -7,3 +7,8 @@ Open Source Project: Basic-CRM
 
 2️⃣ Explore the code and adapt it to your needs or future projects.
 
+TO CHECK IT, click on the admin tab:
+
+✅ Username: admin
+
+✅ Password: admin
